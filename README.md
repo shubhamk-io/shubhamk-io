@@ -3,7 +3,7 @@
 
 <!-- Your Info. -->
 <h1 align="center">Hi 👋, I'm Shubham kumar</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <br/>
 <!-- Programmer GIF -->
